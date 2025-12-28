@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="tzJLJY3FMbVN0Bl8StNI">
-    <mxGraphModel dx="1926" dy="2085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rmME4b_RiL8dJy5E7l4I-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1. create policy&lt;div&gt;2. create role&lt;/div&gt;&lt;div&gt;3. attach policy to role&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="rmME4b_RiL8dJy5E7l4I-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="115.9" width="385" x="440" y="-143.85" as="geometry" />
         </mxCell>
         <mxCell id="9WHpTUxDWurnrEENhcAI-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Source Domain" vertex="1">
